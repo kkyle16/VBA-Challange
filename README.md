@@ -9,5 +9,6 @@ This simple challenge was to create a VBA script that ran through stock changes 
 
 ### Before
 <img src="Images/Before.PNG" alt="before" width="700"/>
+
 ### After
 <img src="Images/2016 Snapshot.PNG" alt="before" width="700"/>
