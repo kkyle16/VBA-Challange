@@ -8,3 +8,4 @@ This simple challenge was to create a VBA script that ran through stock changes 
 + create a summary table indentifying the stocks with the largest increase, decrease, and volume over the year
 
 ![Before](Images/Before.PNG =100x20)
+<img src="Images/Before.PNG" alt="before" width="200"/>
