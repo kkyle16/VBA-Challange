@@ -1,7 +1,10 @@
-# kinneyVBA-Challange
+# VBA Challenge
 
-The challenge was to create a VBA script that ran through stock changes throughout a year. This script returns the yearly 
-change in stock price as well as the total volume of stocks moved for each company. 
+This simple challenge was to create a VBA script that ran through stock changes throughout a year. This script needed to:
 
-This also completes and additional challenge of identifying and returning the stocks with the largest increase, decrease, 
-and total volume over the course of a year.
++ cycle through multiple sheets
++ apply conditional formatting to cells
++ calculate yearly change and total volume
++ create a summary table indentifying the stocks with the largest increase, decrease, and volume over the year
+
+
