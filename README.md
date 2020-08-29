@@ -7,4 +7,4 @@ This simple challenge was to create a VBA script that ran through stock changes 
 + calculate yearly change and total volume
 + create a summary table indentifying the stocks with the largest increase, decrease, and volume over the year
 
-<img src="Images/Before.PNG" alt="before" width="400"/>
+<img src="Images/Before.PNG" alt="before" width="800"/>
